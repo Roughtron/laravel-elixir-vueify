@@ -24,7 +24,7 @@
     "@babel/plugin-transform-runtime": "^7.4.4",
     "@babel/preset-env": "^7.4.4",
     "@babel/runtime": "^7.4.4",
-    "vue": "*^2.6.10",
+    "vue": "^2.*",
     "vueify": "^9.4.1",
     "vue-hot-reload-api": "^2.3.3",
     "vueify-insert-css": "^1.0.0"
